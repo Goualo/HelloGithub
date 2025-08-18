@@ -3,7 +3,7 @@ import psycopg2
 import os
 
 # Connexion PostgreSQL
-DATABASE_URL = "postgresql://crrae:crrae_umoa@postgresql-34636-0.cloudclusters.net:34636/crrae_umoa?sslmode=require"
+DATABASE_URL = "A recupérer dans le TP"
 
 def get_connection():
     """Établit la connexion à la base de données."""
